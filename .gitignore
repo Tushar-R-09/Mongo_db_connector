@@ -1,2 +1,3 @@
- myenv/
- python/
+myenv/
+python/
+src/mongo_congo.egg-info/
