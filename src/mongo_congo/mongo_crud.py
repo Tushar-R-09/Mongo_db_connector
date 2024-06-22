@@ -3,7 +3,7 @@ from pymongo.server_api import ServerApi
 
 
 class mongo_connect:
-    def __init__(self, url:str, database_name : str, collection_name : str):
+    def __init__(self, url: str, database_name: str, collection_name: str):
         self.url = url
         self.database_name = database_name
         self.collection_name = collection_name
